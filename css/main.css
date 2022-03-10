@@ -69,7 +69,10 @@ body {
    [02]. Slider
 ========================== */
 .slider {
-  background: url("../img/bg/lakehub2.jpeg") center center no-repeat;
+  background: url("../img/stillness-inmotion-Gq3i2dnLGik-unsplash.jpg");
+  background-size: cover;
+  background-size: center;
+  object-fit: contain;
   height: calc(100vh - 92px);
   background-attachment: fixed;
   display: flex;
